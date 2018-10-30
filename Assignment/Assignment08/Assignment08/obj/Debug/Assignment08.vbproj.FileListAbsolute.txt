@@ -1,0 +1,22 @@
+C:\Users\xcao0\OneDrive\Fall 2016\CSC162\Projects\Assignment\Assignment08\Assignment08\bin\Debug\Assignment08.exe.config
+C:\Users\xcao0\OneDrive\Fall 2016\CSC162\Projects\Assignment\Assignment08\Assignment08\obj\Debug\Assignment08.vbprojResolveAssemblyReference.cache
+C:\Users\xcao0\OneDrive\Fall 2016\CSC162\Projects\Assignment\Assignment08\Assignment08\obj\Debug\Assignment08.frmMain.resources
+C:\Users\xcao0\OneDrive\Fall 2016\CSC162\Projects\Assignment\Assignment08\Assignment08\obj\Debug\Assignment08.Resources.resources
+C:\Users\xcao0\OneDrive\Fall 2016\CSC162\Projects\Assignment\Assignment08\Assignment08\obj\Debug\Assignment08.vbproj.GenerateResource.Cache
+C:\Users\xcao0\OneDrive\Fall 2016\CSC162\Projects\Assignment\Assignment08\Assignment08\bin\Debug\Assignment08.exe
+C:\Users\xcao0\OneDrive\Fall 2016\CSC162\Projects\Assignment\Assignment08\Assignment08\bin\Debug\Assignment08.pdb
+C:\Users\xcao0\OneDrive\Fall 2016\CSC162\Projects\Assignment\Assignment08\Assignment08\bin\Debug\Assignment08.xml
+C:\Users\xcao0\OneDrive\Fall 2016\CSC162\Projects\Assignment\Assignment08\Assignment08\obj\Debug\Assignment08.exe
+C:\Users\xcao0\OneDrive\Fall 2016\CSC162\Projects\Assignment\Assignment08\Assignment08\obj\Debug\Assignment08.xml
+C:\Users\xcao0\OneDrive\Fall 2016\CSC162\Projects\Assignment\Assignment08\Assignment08\obj\Debug\Assignment08.pdb
+H:\Fall2016\CSC162\Projects\Assignment\Assignment08\Assignment08\bin\Debug\Assignment08.exe.config
+H:\Fall2016\CSC162\Projects\Assignment\Assignment08\Assignment08\obj\Debug\Assignment08.exe
+H:\Fall2016\CSC162\Projects\Assignment\Assignment08\Assignment08\obj\Debug\Assignment08.xml
+H:\Fall2016\CSC162\Projects\Assignment\Assignment08\Assignment08\obj\Debug\Assignment08.pdb
+H:\Fall2016\CSC162\Projects\Assignment\Assignment08\Assignment08\bin\Debug\Assignment08.exe
+H:\Fall2016\CSC162\Projects\Assignment\Assignment08\Assignment08\bin\Debug\Assignment08.pdb
+H:\Fall2016\CSC162\Projects\Assignment\Assignment08\Assignment08\bin\Debug\Assignment08.xml
+H:\Fall2016\CSC162\Projects\Assignment\Assignment08\Assignment08\obj\Debug\Assignment08.vbprojResolveAssemblyReference.cache
+H:\Fall2016\CSC162\Projects\Assignment\Assignment08\Assignment08\obj\Debug\Assignment08.frmMain.resources
+H:\Fall2016\CSC162\Projects\Assignment\Assignment08\Assignment08\obj\Debug\Assignment08.Resources.resources
+H:\Fall2016\CSC162\Projects\Assignment\Assignment08\Assignment08\obj\Debug\Assignment08.vbproj.GenerateResource.Cache

@@ -1,0 +1,37 @@
+c:\users\x.cao\documents\visual studio 2015\Projects\Assignment01\Assignment01\bin\Debug\Assignment01.exe.config
+c:\users\x.cao\documents\visual studio 2015\Projects\Assignment01\Assignment01\bin\Debug\Assignment01.exe
+c:\users\x.cao\documents\visual studio 2015\Projects\Assignment01\Assignment01\bin\Debug\Assignment01.pdb
+c:\users\x.cao\documents\visual studio 2015\Projects\Assignment01\Assignment01\bin\Debug\Assignment01.xml
+c:\users\x.cao\documents\visual studio 2015\Projects\Assignment01\Assignment01\obj\Debug\Assignment01.vbprojResolveAssemblyReference.cache
+c:\users\x.cao\documents\visual studio 2015\Projects\Assignment01\Assignment01\obj\Debug\Assignment01.frmMain.resources
+c:\users\x.cao\documents\visual studio 2015\Projects\Assignment01\Assignment01\obj\Debug\Assignment01.Resources.resources
+c:\users\x.cao\documents\visual studio 2015\Projects\Assignment01\Assignment01\obj\Debug\Assignment01.vbproj.GenerateResource.Cache
+c:\users\x.cao\documents\visual studio 2015\Projects\Assignment01\Assignment01\obj\Debug\Assignment01.exe
+c:\users\x.cao\documents\visual studio 2015\Projects\Assignment01\Assignment01\obj\Debug\Assignment01.xml
+c:\users\x.cao\documents\visual studio 2015\Projects\Assignment01\Assignment01\obj\Debug\Assignment01.pdb
+H:\CSC162\Projects\Assignment01\Assignment01\bin\Debug\Assignment01.exe.config
+H:\CSC162\Projects\Assignment01\Assignment01\obj\Debug\Assignment01.exe
+H:\CSC162\Projects\Assignment01\Assignment01\obj\Debug\Assignment01.xml
+H:\CSC162\Projects\Assignment01\Assignment01\obj\Debug\Assignment01.pdb
+H:\CSC162\Projects\Assignment01\Assignment01\bin\Debug\Assignment01.exe
+H:\CSC162\Projects\Assignment01\Assignment01\bin\Debug\Assignment01.pdb
+H:\CSC162\Projects\Assignment01\Assignment01\bin\Debug\Assignment01.xml
+H:\CSC162\Projects\Assignment01\Assignment01\obj\Debug\Assignment01.vbprojResolveAssemblyReference.cache
+H:\CSC162\Projects\Assignment01\Assignment01\obj\Debug\Assignment01.frmMain.resources
+H:\CSC162\Projects\Assignment01\Assignment01\obj\Debug\Assignment01.Resources.resources
+H:\CSC162\Projects\Assignment01\Assignment01\obj\Debug\Assignment01.vbproj.GenerateResource.Cache
+H:\CSC162\Projects\Assignment\Assignment01\Assignment01\bin\Debug\Assignment01.exe.config
+H:\CSC162\Projects\Assignment\Assignment01\Assignment01\obj\Debug\Assignment01.exe
+H:\CSC162\Projects\Assignment\Assignment01\Assignment01\obj\Debug\Assignment01.xml
+H:\CSC162\Projects\Assignment\Assignment01\Assignment01\obj\Debug\Assignment01.pdb
+H:\CSC162\Projects\Assignment\Assignment01\Assignment01\bin\Debug\Assignment01.exe
+H:\CSC162\Projects\Assignment\Assignment01\Assignment01\bin\Debug\Assignment01.pdb
+H:\CSC162\Projects\Assignment\Assignment01\Assignment01\bin\Debug\Assignment01.xml
+H:\CSC162\Projects\Assignment\Assignment01\Assignment01\obj\Debug\Assignment01.vbprojResolveAssemblyReference.cache
+H:\CSC162\Projects\Assignment\Assignment01\Assignment01\obj\Debug\Assignment01.frmMain.resources
+H:\CSC162\Projects\Assignment\Assignment01\Assignment01\obj\Debug\Assignment01.Resources.resources
+H:\CSC162\Projects\Assignment\Assignment01\Assignment01\obj\Debug\Assignment01.vbproj.GenerateResource.Cache
+C:\Users\xcao0\OneDrive\Fall 2016\CSC162\Projects\Assignment\Assignment01\Assignment01\bin\Debug\Assignment01.exe.config
+C:\Users\xcao0\OneDrive\Fall 2016\CSC162\Projects\Assignment\Assignment01\Assignment01\obj\Debug\Assignment01.exe
+C:\Users\xcao0\OneDrive\Fall 2016\CSC162\Projects\Assignment\Assignment01\Assignment01\obj\Debug\Assignment01.xml
+C:\Users\xcao0\OneDrive\Fall 2016\CSC162\Projects\Assignment\Assignment01\Assignment01\obj\Debug\Assignment01.pdb

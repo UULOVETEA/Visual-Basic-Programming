@@ -1,0 +1,45 @@
+C:\Users\macir\Documents\New folder\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\macir\Documents\New folder\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\macir\Documents\New folder\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\macir\Documents\New folder\FinalProject\FinalProject\bin\Debug\FinalProject.xml
+C:\Users\macir\Documents\New folder\FinalProject\FinalProject\obj\Debug\FinalProject.vbprojResolveAssemblyReference.cache
+C:\Users\macir\Documents\New folder\FinalProject\FinalProject\obj\Debug\FinalProject.frmMain.resources
+C:\Users\macir\Documents\New folder\FinalProject\FinalProject\obj\Debug\FinalProject.frmMoive.resources
+C:\Users\macir\Documents\New folder\FinalProject\FinalProject\obj\Debug\FinalProject.frmMusic.resources
+C:\Users\macir\Documents\New folder\FinalProject\FinalProject\obj\Debug\FinalProject.Resources.resources
+C:\Users\macir\Documents\New folder\FinalProject\FinalProject\obj\Debug\FinalProject.vbproj.GenerateResource.Cache
+C:\Users\macir\Documents\New folder\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\macir\Documents\New folder\FinalProject\FinalProject\obj\Debug\FinalProject.xml
+C:\Users\macir\Documents\New folder\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\macir\Documents\New folder\FinalProject\FinalProject\obj\Debug\FinalProject.AboutMediaLibrary.resources
+C:\Users\xcao0\OneDrive\Fall 2016\CSC162\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\xcao0\OneDrive\Fall 2016\CSC162\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\xcao0\OneDrive\Fall 2016\CSC162\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.xml
+C:\Users\xcao0\OneDrive\Fall 2016\CSC162\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\xcao0\OneDrive\Fall 2016\CSC162\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\xcao0\OneDrive\Fall 2016\CSC162\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\xcao0\OneDrive\Fall 2016\CSC162\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.xml
+C:\Users\xcao0\OneDrive\Fall 2016\CSC162\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.vbprojResolveAssemblyReference.cache
+C:\Users\xcao0\OneDrive\Fall 2016\CSC162\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.AboutMediaLibrary.resources
+C:\Users\xcao0\OneDrive\Fall 2016\CSC162\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.frmMain.resources
+C:\Users\xcao0\OneDrive\Fall 2016\CSC162\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.frmMusic.resources
+C:\Users\xcao0\OneDrive\Fall 2016\CSC162\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.Resources.resources
+C:\Users\xcao0\OneDrive\Fall 2016\CSC162\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.vbproj.GenerateResource.Cache
+C:\Users\xcao0\OneDrive\Fall 2016\CSC162\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.frmMovie.resources
+C:\Users\xcao0\OneDrive\Fall 2016\CSC162\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.MediaLibrarySplashScreen.resources
+C:\Users\Xiaomeng\Downloads\CSC162\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\Xiaomeng\Downloads\CSC162\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\Xiaomeng\Downloads\CSC162\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\Xiaomeng\Downloads\CSC162\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.xml
+C:\Users\Xiaomeng\Downloads\CSC162\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.vbprojAssemblyReference.cache
+C:\Users\Xiaomeng\Downloads\CSC162\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.AboutMediaLibrary.resources
+C:\Users\Xiaomeng\Downloads\CSC162\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.frmMain.resources
+C:\Users\Xiaomeng\Downloads\CSC162\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.frmMovie.resources
+C:\Users\Xiaomeng\Downloads\CSC162\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.frmMusic.resources
+C:\Users\Xiaomeng\Downloads\CSC162\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.MediaLibrarySplashScreen.resources
+C:\Users\Xiaomeng\Downloads\CSC162\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.Resources.resources
+C:\Users\Xiaomeng\Downloads\CSC162\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.vbproj.GenerateResource.cache
+C:\Users\Xiaomeng\Downloads\CSC162\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.vbproj.CoreCompileInputs.cache
+C:\Users\Xiaomeng\Downloads\CSC162\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\Xiaomeng\Downloads\CSC162\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.xml
+C:\Users\Xiaomeng\Downloads\CSC162\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
